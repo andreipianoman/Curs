@@ -59,5 +59,3 @@ public class LocalClassExample {
         validatePhoneNumber("7364/73dbdsb5555");
     }
 }
-    
-
